@@ -1,5 +1,7 @@
 # Ignore Visual Studio temporary files
 .vs/
+# Ignore large video file
+Resources/zoo_video.mp4
 
 # Build folders
 bin/
